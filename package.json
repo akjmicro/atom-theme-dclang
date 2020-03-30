@@ -1,0 +1,18 @@
+{
+  "name": "dclang-theme-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A syntax theme for use with dclang",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/akjmicro/atom-theme-dclang",
+  "author": {
+    "name": "Aaron Krister Johnson"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
