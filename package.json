@@ -1,7 +1,7 @@
 {
   "name": "dclang-theme-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A syntax theme for use with dclang",
   "keywords": [
     "syntax",
